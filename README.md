@@ -83,3 +83,9 @@ streamlit run main.py
 **app/generator.py**
 
 OpenAI 클라이언트를 초기화하고 실제 API 호출을 수행합니다. 예외 처리가 구현되어 있어 API 호출 실패 시 에러 메시지를 반환합니다.
+
+## 실행 화면
+
+<img width="705" height="797" alt="스크린샷 2026-02-02 121539" src="https://github.com/user-attachments/assets/839f869e-00db-4676-be99-014a745e7790" />
+
+
